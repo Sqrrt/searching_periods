@@ -1,0 +1,7 @@
+# ninja log v6
+178	1283	7502103020071431	CMakeFiles/searching_of_periods.dir/main.cpp.obj	125cb8a6cabc2c7d
+19	156	7502103018479901	CMakeFiles/searching_of_periods.dir/main.cpp.obj.ddi	f276e5217f789f92
+156	177	7502103019852142	CMakeFiles/searching_of_periods.dir/CXX.dd	ba3e62632afaae1b
+156	177	7502103019852142	C:/jetbrain_projects/CLionProjects/searching_of_periods/cmake-build-debug/CMakeFiles/searching_of_periods.dir/CXXModules.json	ba3e62632afaae1b
+1283	1370	7502103031122174	searching_of_periods.exe	9290ef3fe8ac9ee
+156	177	7502103019852142	CMakeFiles/searching_of_periods.dir/main.cpp.obj.modmap	ba3e62632afaae1b
